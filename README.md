@@ -2,9 +2,7 @@
 
 My name is Fahim Ahmed, a Dhaka, Bangladesh based Backend Engineer and welcome to the funhouse... otherwise known as my GitHub!
 
-<img align="left" alt="Twitter" width="22px" src="./assets/" />
-
-*This cat represents my coding style... smooth yet unpredictable.*
+<img align="left" alt="Twerk your booty" width="30px" src="sexy-cat-dance.gif" />  *This cat represents my coding style... smooth yet unpredictable.*
 
 ## Few things about me:
 
