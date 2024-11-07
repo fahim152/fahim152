@@ -8,7 +8,6 @@ My name is Fahim Ahmed, a Dhaka, Bangladesh based Backend Engineer and welcome t
 
 - 🔭 I’m currently working on... wait, which project was it again? Oh yeah, all of them!
 - 🌱 I’m always learning... mostly from my mistakes.
-- 👯 I’m looking to collaborate on anything that doesn't involve waking up before 10am.
 - 🤔 I’m looking for help with how to add more hours to a day. Anyone?
 - 💬 Ask me about the time I thought recursion was a type of exercise.
 - 📫 How to reach me: Send a raven. Or just email, that's cool too.
@@ -20,7 +19,7 @@ My name is Fahim Ahmed, a Dhaka, Bangladesh based Backend Engineer and welcome t
 - 🛠️ I'm proficient in `PHP`, `Laravel`, `JavaScript` and `Sarcasm`.
 - 📖 I'm currently Learning `ASP .NET Core` 
 - 👨‍🎓 I've completed my Bachelor of Science in Software Engineering
-- 💼 I've more than 5 years of industrial work experience till now.
+- 💼 I've more than 7 years of industrial work experience till now.
 - 🌍 I'm currently exploring the realms of `Data Science` and `Machine Learning` 
 
 ## Achievement Unlocked: Visited my profile 🏆
