@@ -18,6 +18,6 @@ My name is **Fahim**, your friendly neighborhood Backend Engineer, and welcome t
 - 🛠️ I'm proficient in `PHP`, `Laravel`, `C#`, `.NET`, `JavaScript`, and `Sarcasm`. Yes, it’s a coding language now! :D 
 - 🎓 🎓 Completed my Bachelor's in Software Engineering(2018), and now I’m leveling up my education with a Master’s (2024-2026).
 - 💼 With nearly 7 years of industry experience, I've mastered the art of pretending to know what I'm doing.
-- 🌍 Currently exploring the exciting (and sometimes terrifying) realms of `LLM / Agentic RAG Data Harmonization /` because who doesn’t want a robot minion?
+- 🌍 Currently exploring the exciting (and sometimes terrifying) realms of `LLM / Agentic RAG /Data Harmonization/ Semantic Mapping`
 
 ## Achievement Unlocked: Congratulations :D You Visited my profile 🏆 
